@@ -10,9 +10,9 @@ import (
 	"os"
 	"testing"
 
+	logger "github.com/mj23978/chat-backend-x/logger/zerolog"
 	"github.com/spf13/cobra"
 	"github.com/stretchr/testify/require"
-	logger "gitlab.com/johndoe2561357/common-go-mafia/logger/zerolog"
 
 	"github.com/pkg/errors"
 )

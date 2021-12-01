@@ -5,7 +5,6 @@ go 1.15
 replace (
 	go.etcd.io/etcd/api/v3 v3.5.0-pre => go.etcd.io/etcd/api/v3 v3.0.0-20210107172604-c632042bb96c
 	go.etcd.io/etcd/pkg/v3 v3.5.0-pre => go.etcd.io/etcd/pkg/v3 v3.0.0-20210107172604-c632042bb96c
-// google.golang.org/grpc v1.33.2 => google.golang.org/grpc v1.29.1
 )
 
 require (
